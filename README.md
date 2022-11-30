@@ -1,4 +1,4 @@
-# Hypothesis Testing: Apps Project #
+# Hypothesis Testing (Permutation Test): Apps Project #
 
 <p align="center">
 	<img src="https://specifications-pro.com/wp-content/uploads/2019/12/%D9%85%D8%AA%D8%AC%D8%B1.jpg" alt="400" width="600"/>
