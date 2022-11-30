@@ -1,15 +1,15 @@
-# hypothesis_testing_apps
-
 # Hypothesis Testing: Apps Project #
+
+![picture alt](https://specifications-pro.com/wp-content/uploads/2019/12/%D9%85%D8%AA%D8%AC%D8%B1.jpg "Title")
 
 In this notebook, I will show an example of hypothesis testing to determine if Apple Store receives better reviews than Google Play and if those reviews are statistically significant.
 
 We will use the data downloaded from here to analyze reviews made by users in different apps available in Google Play and Apple Store. I will use a basic Data Science Pipeline that will include:
 
-* Data intake (sourcing and loading)
-* Data processing and cleaning (ETL)
-* Statistical Modeling
-* Evaluation and Conclusion
+- [x] Data intake (sourcing and loading)
+- [x] Data processing and cleaning (ETL)
+- [x] Statistical Modeling
+- [x] Evaluation and Conclusion
 
 Results:
 
