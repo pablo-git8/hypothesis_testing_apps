@@ -1,8 +1,6 @@
 # Hypothesis Testing: Apps Project #
 
-<img src="https://specifications-pro.com/wp-content/uploads/2019/12/%D9%85%D8%AA%D8%AC%D8%B1.jpg" alt="drawing" width="200"/>
-
-![picture alt](https://specifications-pro.com/wp-content/uploads/2019/12/%D9%85%D8%AA%D8%AC%D8%B1.jpg "Title")
+<img src="https://specifications-pro.com/wp-content/uploads/2019/12/%D9%85%D8%AA%D8%AC%D8%B1.jpg" alt="800" width="1200"/>
 
 In this notebook, I will show an example of hypothesis testing to determine if Apple Store receives better reviews than Google Play and if those reviews are statistically significant.
 
