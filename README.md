@@ -3,10 +3,6 @@
 ![python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 ![jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
-<p align="center">
-	<img src="https://specifications-pro.com/wp-content/uploads/2019/12/%D9%85%D8%AA%D8%AC%D8%B1.jpg" alt="400" width="600"/>
-</p>
-
 In this notebook, I will show an example of hypothesis testing to determine if Apple Store receives better reviews than Google Play and if those reviews are statistically significant by using a Permutation Statistical Test.
 
 I will use the data downloaded from here to analyze reviews made by users in different apps available in Google Play and Apple Store. I will use a basic Data Science Pipeline that will include:
